@@ -1,6 +1,6 @@
 # Netflix Azure Data Engineering Project
 
-![Text](https://github.com/BiancaPopescu2001/Netflix_Azure_Data_Engineering_Project/blob/main/cover.jpg))
+![Text](https://github.com/BiancaPopescu2001/Netflix_Azure_Data_Engineering_Project/blob/main/cover.jpg)
 
 
 ## TABLE OF CONTENT
