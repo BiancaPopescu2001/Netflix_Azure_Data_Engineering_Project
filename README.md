@@ -13,6 +13,10 @@
 
 This project focuses on building a data engineering pipeline for Netflix data using the Azure ecosystem.
 
+## Arhitecture
+
+
+
 ## Skills demonstrated
 
 - Azure Cloud Architecture
