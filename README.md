@@ -9,6 +9,10 @@
 - [Data Dictionary](#dashboard-purpose)
 - [Skills Demonstrated](#key-requirements)
 
+## Introduction
+
+This project focuses on building a data engineering pipeline for Netflix data using the Azure ecosystem.
+
   
 
 
