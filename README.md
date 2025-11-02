@@ -1,6 +1,6 @@
 <h1 align="center">Netflix Azure Data Engineering Project</h1>
 
-(https://github.com/BiancaPopescu2001/Netflix_Azure_Data_Engineering_Project/blob/main/cover_pic.jpg)
+![Text](https://github.com/BiancaPopescu2001/Netflix_Azure_Data_Engineering_Project/blob/main/cover_pic.jpg)
 
 ## 📘 Table of Contents
 - [Introduction](#introduction)
