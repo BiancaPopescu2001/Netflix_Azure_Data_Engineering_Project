@@ -21,11 +21,11 @@ Azure Data Factory (ADF) orchestrates the data ingestion process:
 
   - Connects to GitHub through a web activity to fetch raw Netflix datasets.
 
-  - Copies data files (netflix_cast, netflix_countries, netflix_directors, netflix_category, netflix_titles) into the Bronze container of Azure Data Lake Storage Gen2.
+  - Copies data files (netflix_cast, netflix_countries, netflix_directors, netflix_category) into the Bronze container of Azure Data Lake Storage Gen2.
 
 Azure Databricks handles the data transformation and enrichment stages:
 
-  - The Bronze layer stores raw ingested data using Databricks Auto Loader for incremental updates.
+  - The fifth dataset (netflix_titles) is ingesting incrementally using Auto Loader, showcasing streaming capabilities and checkpointing for continuous updates..
 
   - The Silver layer refines and cleans data (handling nulls, adding flag columns, splitting fields) and saves it in Delta format for optimized access.
 
