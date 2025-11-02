@@ -13,6 +13,16 @@
 
 This project focuses on building a data engineering pipeline for Netflix data using the Azure ecosystem.
 
+## Skills demonstrated
+
+- Azure Cloud Architecture
+- Data Ingestion
+- ETL Orchestration
+- Data Streaming & Incremental Loading
+- Data Transformation & Cleaning
+- Delta Lake Architecture
+- Delta Live Tables (DLT)
+
   
 
 
